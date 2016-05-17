@@ -1,0 +1,8 @@
+c:\users\tsahi\documents\visual studio 2013\Projects\Home\Home\bin\Debug\Home.exe.config
+c:\users\tsahi\documents\visual studio 2013\Projects\Home\Home\bin\Debug\Home.exe
+c:\users\tsahi\documents\visual studio 2013\Projects\Home\Home\bin\Debug\Home.pdb
+c:\users\tsahi\documents\visual studio 2013\Projects\Home\Home\obj\Debug\Home.Form1.resources
+c:\users\tsahi\documents\visual studio 2013\Projects\Home\Home\obj\Debug\Home.Properties.Resources.resources
+c:\users\tsahi\documents\visual studio 2013\Projects\Home\Home\obj\Debug\Home.csproj.GenerateResource.Cache
+c:\users\tsahi\documents\visual studio 2013\Projects\Home\Home\obj\Debug\Home.exe
+c:\users\tsahi\documents\visual studio 2013\Projects\Home\Home\obj\Debug\Home.pdb
