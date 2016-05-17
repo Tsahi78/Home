@@ -6,3 +6,12 @@ c:\users\tsahi\documents\visual studio 2013\Projects\Home\Home\obj\Debug\Home.Pr
 c:\users\tsahi\documents\visual studio 2013\Projects\Home\Home\obj\Debug\Home.csproj.GenerateResource.Cache
 c:\users\tsahi\documents\visual studio 2013\Projects\Home\Home\obj\Debug\Home.exe
 c:\users\tsahi\documents\visual studio 2013\Projects\Home\Home\obj\Debug\Home.pdb
+C:\Users\Tsahi\Documents\Visual Studio 2013\Projects\home\Home\Home\bin\Debug\Home.exe.config
+C:\Users\Tsahi\Documents\Visual Studio 2013\Projects\home\Home\Home\obj\Debug\Home.exe
+C:\Users\Tsahi\Documents\Visual Studio 2013\Projects\home\Home\Home\obj\Debug\Home.pdb
+C:\Users\Tsahi\Documents\Visual Studio 2013\Projects\home\Home\Home\bin\Debug\Home.exe
+C:\Users\Tsahi\Documents\Visual Studio 2013\Projects\home\Home\Home\bin\Debug\Home.pdb
+C:\Users\Tsahi\Documents\Visual Studio 2013\Projects\home\Home\Home\obj\Debug\Home.csprojResolveAssemblyReference.cache
+C:\Users\Tsahi\Documents\Visual Studio 2013\Projects\home\Home\Home\obj\Debug\Home.Form1.resources
+C:\Users\Tsahi\Documents\Visual Studio 2013\Projects\home\Home\Home\obj\Debug\Home.Properties.Resources.resources
+C:\Users\Tsahi\Documents\Visual Studio 2013\Projects\home\Home\Home\obj\Debug\Home.csproj.GenerateResource.Cache
